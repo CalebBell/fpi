@@ -42,7 +42,6 @@ classifiers=[
     'Programming Language :: Python :: Implementation :: CPython',
     'Topic :: Education',
     'Topic :: Scientific/Engineering :: Atmospheric Science',
-    'Topic :: Scientific/Engineering :: Chemistry',
     'Topic :: Scientific/Engineering :: Physics',
 ]
 
