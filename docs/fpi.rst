@@ -13,7 +13,3 @@ Submodules
 Module contents
 ---------------
 
-.. automodule:: fpi
-    :members:
-    :undoc-members:
-    :show-inheritance:
